@@ -1,5 +1,8 @@
 # IP Logger Tool
 
+## What is This?
+The YouTube IP Logger Tool is designed to gather IP addresses and other details from those who interact with your YouTube links. This tool is useful for analyzing traffic, performing security assessments, or understanding the geographical and technical data of your visitors.
+
 ## How It Works
 
 To use the IP Logger Tool, simply run **./YouTube-IP-Logger-RandomID-Generator** to generate a unique payload. This payload includes a random 11-character string comprising numbers, uppercase and lowercase letters, and special characters (-, _, space).
@@ -28,7 +31,14 @@ For API access, visit: https://api.c99.nl/?r=4275810
 
 
 
+
+
+
+
 # IP Logger Aracı
+
+## Bu Nedir?
+YouTube IP Logger Aracı, YouTube bağlantılarınızla etkileşime girenlerin IP adreslerini ve diğer ayrıntılarını toplamak için tasarlanmıştır. Bu araç, trafiği analiz etmek, güvenlik değerlendirmeleri yapmak veya ziyaretçilerinizin coğrafi ve teknik verilerini anlamak için kullanılır.
 
 ## Nasıl Çalışır
 
@@ -57,7 +67,15 @@ Kullanıcılar IP Logger Aracı'nı sorumlu bir şekilde kullanmalı, gizlilik y
 API erişimi için ziyaret edin: https://api.c99.nl/?r=4275810
 
 
+
+
+
+
+
 # Инструмент для логирования IP
+
+## Что это?
+Инструмент YouTube IP Logger предназначен для сбора IP-адресов и других данных от тех, кто взаимодействует с вашими ссылками на YouTube. Этот инструмент полезен для анализа трафика, проведения оценки безопасности или понимания географических и технических данных ваших посетителей.
 
 ## Как это работает
 
@@ -87,6 +105,9 @@ API erişimi için ziyaret edin: https://api.c99.nl/?r=4275810
 
 
 # IP 日志工具
+
+## 这是什么？
+YouTube IP Logger 工具旨在收集与您的 YouTube 链接互动的人的 IP 地址和其他详细信息。这个工具对于分析流量、执行安全评估或了解访问者的地理和技术数据非常有用。
 
 ## 工作原理
 
